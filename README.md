@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到 Fion Tam 作品集
 
-You can use the [editor on GitHub](https://github.com/Fiontam/Resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+呢度既动物无分细大.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
