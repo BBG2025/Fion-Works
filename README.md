@@ -1,19 +1,10 @@
 ## 欢迎来到 Fion Tam 作品集
 
-呢度既动物无分细大.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 擅长领域 ： 插画设计 / 元素设计 / Logo设计 / 文案策划
 
-合作伙伴
+# 合作案例：  青蛙王子 / 优道之水 / ABE商务培训 / 知名餐厅全套UI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-青蛙王子
-## Header 2
-### Header 3
 
 - Bulleted
 - List
